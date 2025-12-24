@@ -1,10 +1,3 @@
-InstaModa is a Python-based tool crafted to enhance your Instagram followers quickly and securely. By utilizing multiple services, InstaModa efficiently delivers followers to your chosen Instagram account, all while safeguarding your privacy and maintaining account security.
-
-Features
-Secure Login: Protect your primary account by using fake accounts for login. This approach ensures that your main account remains safe from any potential risks.
-Rapid Follower Addition: Quickly add followers through multiple services, allowing for fast and efficient results.
-Robust Error Handling: The tool includes built-in mechanisms to handle various issues, such as login checkpoints, incorrect passwords, and connection problems, providing a smoother user experience.
-Intuitive Interface: Enjoy a straightforward and user-friendly console interface with easy-to-follow instructions, making the tool accessible even for beginners.
 Requirements
 Python 3.x
 Required Python modules: requests, rich
