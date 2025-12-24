@@ -14,4 +14,4 @@ git clone https://github.com/raycdt/instaboost.git
 
 cd instaboost
 
-python insta.lt
+python insta.py
